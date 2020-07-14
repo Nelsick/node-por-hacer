@@ -1,0 +1,15 @@
+{
+  "name": "04-por-hacer",
+  "version": "1.0.0",
+  "description": "Esta es una aplicación para gestionar tareas desde el CLI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yiris Majluf",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^15.4.1"
+  }
+}
